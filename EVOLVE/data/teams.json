@@ -1,0 +1,34 @@
+[
+  {
+    "id": "team-evolutionary-scheduling",
+    "facultyId": "shunmuga-velayutham",
+    "name": "Evolutionary Scheduling Lab",
+    "project": "Genetic algorithms for academic timetable optimization",
+    "description": "Models constrained scheduling problems with adaptive evolutionary operators.",
+    "createdAt": "2026-06-06T07:11:49.052Z"
+  },
+  {
+    "id": "team-learning-optimization",
+    "facultyId": "bagavathi-c",
+    "name": "Learning Optimization Group",
+    "project": "Hybrid learning models for optimization-guided prediction",
+    "description": "Combines data-driven modelling with search-based parameter tuning.",
+    "createdAt": "2026-06-06T07:11:49.052Z"
+  },
+  {
+    "id": "team-adaptive-decision",
+    "facultyId": "anisha-radhakrishnan",
+    "name": "Adaptive Decision Systems",
+    "project": "Explainable adaptive systems for decision support",
+    "description": "Builds interpretable adaptive learning workflows for applied domains.",
+    "createdAt": "2026-06-06T07:11:49.052Z"
+  },
+  {
+    "id": "team-ritwik-adaptive-ai",
+    "facultyId": "ritwik-m",
+    "name": "Adaptive AI Systems",
+    "project": "Learning-assisted optimization for dynamic environments",
+    "description": "Explores adaptive search and robust modelling for changing systems.",
+    "createdAt": "2026-06-06T07:11:49.052Z"
+  }
+]

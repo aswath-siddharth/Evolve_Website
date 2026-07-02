@@ -1,0 +1,29 @@
+[
+  {
+    "id": "uVkm5ZXlG8",
+    "facultyId": "ritwik-m",
+    "teamId": "team-ritwik-adaptive-ai",
+    "name": "Aswath Siddharth R",
+    "email": "aswathsiddharthrajendran@gmail.com",
+    "topic": "General Research",
+    "status": "active",
+    "password": "Aswath56",
+    "joinedAt": "2026-06-19T18:22:26.265Z"
+  },
+  {
+    "id": "student-2",
+    "facultyId": "bagavathi-c",
+    "name": "Meera S",
+    "email": "meera.s@amrita.edu",
+    "status": "active",
+    "topic": "Learning-based optimization"
+  },
+  {
+    "id": "student-3",
+    "facultyId": "anisha-radhakrishnan",
+    "name": "Dev P",
+    "email": "dev.p@amrita.edu",
+    "status": "invited",
+    "topic": "Adaptive decision systems"
+  }
+]

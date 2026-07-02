@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/sync-publications",
+      "schedule": "0 0 * * *"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "user-uVkm5ZXlG8",
+    "name": "Aswath Siddharth R",
+    "email": "aswathsiddharthrajendran@gmail.com",
+    "password": "Aswath56",
+    "role": "student",
+    "facultyId": "ritwik-m",
+    "studentId": "uVkm5ZXlG8",
+    "status": "active",
+    "createdAt": "2026-06-19T18:22:26.266Z"
+  },
+  {
+    "id": "user-ritwik-m",
+    "name": "Ritwik M",
+    "email": "m_ritwik@cb.amrita.edu",
+    "password": "Amrita@123",
+    "role": "super_admin",
+    "facultyId": "ritwik-m",
+    "status": "active",
+    "createdAt": "2026-06-06T07:11:48.451Z"
+  },
+  {
+    "id": "user-shunmuga-velayutham",
+    "name": "Shunmuga Velayutham",
+    "email": "shunmuga.velayutham@amrita.edu",
+    "password": "Amrita@123",
+    "role": "faculty",
+    "facultyId": "shunmuga-velayutham",
+    "status": "active",
+    "createdAt": "2026-06-06T07:11:48.451Z"
+  },
+  {
+    "id": "user-bagavathi-c",
+    "name": "Bagavathi C",
+    "email": "bagavathi.c@amrita.edu",
+    "password": "ChangeMe@123",
+    "role": "faculty",
+    "facultyId": "bagavathi-c",
+    "status": "active",
+    "createdAt": "2026-06-06T07:11:48.451Z"
+  },
+  {
+    "id": "user-jeyakumar-g",
+    "name": "Jeyakumar G",
+    "email": "jeyakumar.g@amrita.edu",
+    "password": "ChangeMe@123",
+    "role": "faculty",
+    "facultyId": "jeyakumar-g",
+    "status": "active",
+    "createdAt": "2026-06-06T07:11:48.451Z"
+  },
+  {
+    "id": "user-s-thangavelu",
+    "name": "S Thangavelu",
+    "email": "s.thangavelu@amrita.edu",
+    "password": "ChangeMe@123",
+    "role": "faculty",
+    "facultyId": "s-thangavelu",
+    "status": "active",
+    "createdAt": "2026-06-06T07:11:48.451Z"
+  },
+  {
+    "id": "user-anisha-radhakrishnan",
+    "name": "Anisha Radhakrishnan",
+    "email": "anisha.radhakrishnan@amrita.edu",
+    "password": "ChangeMe@123",
+    "role": "faculty",
+    "facultyId": "anisha-radhakrishnan",
+    "status": "active",
+    "createdAt": "2026-06-06T07:11:48.451Z"
+  },
+  {
+    "id": "user-dhanya-m-dhananlakshmy",
+    "name": "Dhanya M Dhananlakshmy",
+    "email": "dhanya.dhananlakshmy@amrita.edu",
+    "password": "ChangeMe@123",
+    "role": "faculty",
+    "facultyId": "dhanya-m-dhananlakshmy",
+    "status": "active",
+    "createdAt": "2026-06-06T07:11:48.451Z"
+  }
+]
