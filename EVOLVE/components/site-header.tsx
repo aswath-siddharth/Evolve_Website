@@ -19,6 +19,12 @@ export async function SiteHeader() {
         </Link>
         <nav className="flex items-center gap-2 text-sm font-semibold">
           <Link
+            href="/members"
+            className="rounded-md px-3 py-2 text-slate-600 transition hover:bg-ocean-50 hover:text-ocean-800 inline-flex"
+          >
+            Members
+          </Link>
+          <Link
             href="/#faculty"
             className="hidden rounded-md px-3 py-2 text-slate-600 transition hover:bg-ocean-50 hover:text-ocean-800 sm:inline-flex"
           >

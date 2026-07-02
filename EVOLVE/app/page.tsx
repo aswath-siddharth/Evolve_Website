@@ -54,8 +54,15 @@ export default async function HomePage() {
                   <ArrowRight size={16} />
                 </Link>
                 <Link
-                  href="/login"
+                  href="/members"
                   className="inline-flex items-center gap-2 rounded-md border border-ocean-200 bg-white px-4 py-3 text-sm font-bold text-ocean-800 shadow-sm transition hover:bg-ocean-50"
+                >
+                  View members
+                  <Users size={16} />
+                </Link>
+                <Link
+                  href="/login"
+                  className="inline-flex items-center gap-2 rounded-md border border-ocean-200 bg-white px-4 py-3 text-sm font-bold text-ocean-800 shadow-sm transition hover:bg-ocean-50 hover:text-ocean-800"
                 >
                   Faculty admin
                   <ShieldCheck size={16} />
